@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* h1{
+    background-color: aqua;
+    border: 5px solid red;
+    color: blue;
+    border-radius: 15px;
+}
+h2{
+    background-color: yellowgreen;
+    color:brown;
+    border: 6px unset blue;
+    border-radius: 10px;
+}
+h3{
+    background-color: darkblue;
+    border: 5px solid yellow;
+    border-radius: 10px;
+    color: darkcyan
+}
+h4{
+    background-color: darkgoldenrod ;
+    color: darkgreen;
+    border: 5px solid black ;
+} */
+.card{
+    border: 15px solid black;
+    border-radius: 20px;
+    width: 280px;
+    height: 350px;
+    text-align: center;
+    padding: 10px;
+}
+.card img{
+    width: 50px;
+}
+.conteiner{
+    display: flex;
+    justify-content: space-around;
+}
